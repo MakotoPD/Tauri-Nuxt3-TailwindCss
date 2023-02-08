@@ -23,5 +23,5 @@ npm run tauri build
 
 # ⚠️ Build still not working. Im developming about it. 
 
-## 📸 Screen shots
+## 📸 Screenshots
 
