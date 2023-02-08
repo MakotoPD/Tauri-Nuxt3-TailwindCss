@@ -1,4 +1,4 @@
-# Nuxt3 & Tauri & TailwindCSS
+# 🔥 Nuxt3 & Tauri & TailwindCSS
 ![nuxt tauriapp tailwindcss](https://i.imgur.com/qNOUf2a.png)
 All tauri and Nuxt api works fine. 
 
@@ -22,3 +22,6 @@ npm run tauri build
 ```
 
 # ⚠️ Build still not working. Im developming about it. 
+
+## 📸 Screen shots
+
