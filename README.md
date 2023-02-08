@@ -23,7 +23,9 @@ npm run tauri build
 > ⚠️ Build still not working. Im developming about it. 
 
 ## 📸 Screenshots
-
-![home](https://i.imgur.com/Ao5MiP5.png)
-![notify](https://i.imgur.com/qYMe9Ef.png)
-![about project](https://i.imgur.com/lqYJc1w.png)
+<details>
+	<summary>Screenshots here</summary>
+	<img src="https://i.imgur.com/Ao5MiP5.png" alt="Home screen" />
+	<img src="https://i.imgur.com/qYMe9Ef.png" alt="notification" />
+	<img src="https://i.imgur.com/lqYJc1w.png" alt="About project window" />
+</details>
