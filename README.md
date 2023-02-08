@@ -20,8 +20,7 @@ npm run tauri dev
 # Build app
 npm run tauri build
 ```
-
-# ⚠️ Build still not working. Im developming about it. 
+> ⚠️ Build still not working. Im developming about it. 
 
 ## 📸 Screenshots
 
