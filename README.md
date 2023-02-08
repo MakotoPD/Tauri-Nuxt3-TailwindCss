@@ -26,6 +26,5 @@ npm run tauri build
 ## 📸 Screenshots
 
 ![home](https://i.imgur.com/Ao5MiP5.png)
-![about](https://i.imgur.com/YxxeEid.png)
-![notify](https://i.imgur.com/TBMq5gF.png)
+![notify](https://i.imgur.com/qYMe9Ef.png)
 ![about project](https://i.imgur.com/lqYJc1w.png)
