@@ -8,7 +8,7 @@ The project includes 2 example uses of the api.
 
 ## 🛠 Setup
 
-Build Setup: If you want to build the app, you need to install Node.js (v16 LTS is recommended), a package manager like yarn and the [Tauri development environment](https://tauri.app/v1/guides/getting-started/prerequisites). Then, depending on your use case you can run the commands below:
+**Build Setup**: If you want to build the app, you need to install Node.js (v16 LTS is recommended), a package manager like yarn and the [Tauri development environment](https://tauri.app/v1/guides/getting-started/prerequisites). Then, depending on your use case you can run the commands below:
 
 ```bash
 # Install dependencies
@@ -25,3 +25,7 @@ npm run tauri build
 
 ## 📸 Screenshots
 
+![home](https://i.imgur.com/Ao5MiP5.png)
+![about](https://i.imgur.com/YxxeEid.png)
+![notify](https://i.imgur.com/TBMq5gF.png)
+![about project](https://i.imgur.com/lqYJc1w.png)
