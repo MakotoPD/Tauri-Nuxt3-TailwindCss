@@ -23,7 +23,7 @@ npm run tauri dev
 # Build app
 npm run tauri build
 ```
-> ⚠️ Build still not working. Im developming about it. 
+> ⚠️ Build not working on windows. Im developming about it. But on Linux and MacOS working good 
 
 ## 📸 Screenshots
 <details>
