@@ -14,6 +14,9 @@ The project includes 2 example uses of the api.
 # Clone repo
 git clone https://github.com/MakotoPD/Tauri-Nuxt3-TailwindCss.git
 
+# Open project
+cd Tauri-Nuxt3-TailwindCss
+
 # Install dependencies
 npm install
 
