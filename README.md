@@ -11,6 +11,9 @@ The project includes 2 example uses of the api.
 **Build Setup**: If you want to build the app, you need to install Node.js (v16 LTS is recommended), a package manager like `npm` and the [Tauri development environment](https://tauri.app/v1/guides/getting-started/prerequisites). Then, depending on your use case you can run the commands below:
 
 ```bash
+# Clone repo
+git clone https://github.com/MakotoPD/Tauri-Nuxt3-TailwindCss.git
+
 # Install dependencies
 npm install
 
